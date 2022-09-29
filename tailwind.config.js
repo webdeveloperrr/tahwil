@@ -15,7 +15,11 @@ module.exports = {
         "main-blue-600": "#1a527f",
         "main-blue-700": "#16446a",
         "dark-blue": "#4C6793",
-      }
+      },
+      fontFamily: {
+        "Raleway": ['Raleway', 'sans-serif'],
+        "Open-sans": ['Open Sans', 'sans-serif'],
+      },
     },
   },
   plugins: [
